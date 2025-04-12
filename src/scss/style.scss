@@ -25,7 +25,7 @@ aside {
     height: auto;
     padding: 37px 32px;
     background-color: #363740;
-    overflow-y: scroll;
+    overflow-y: auto;
 }
 
 aside .logo {
@@ -63,7 +63,7 @@ hr {
 main {
     background-color: #f7f8fc;
     height: 100vh;
-    overflow-y: scroll;
+    overflow-y: auto;
 }
 
 h2 {
@@ -107,7 +107,7 @@ h2 {
     padding: 2px
 }
 
-.status-box {
+.status-card {
     background-color: white;
     padding: 20px;
     border-radius: 8px;
@@ -115,22 +115,22 @@ h2 {
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
-.status-box.active {
+.status-card.active {
     border: 2px solid $blue;
 }
 
-.status-box.active .title,
-.status-box.active .number {
+.status-card.active .title,
+.status-card.active .number {
     color: $blue;
 }
 
-.status-box .title {
+.status-card .title {
     font-size: 19px;
     color: $grey-text;
     margin-bottom: 12px;
 }
 
-.status-box .number {
+.status-card .number {
     font-size: 40px;
     color: $primary-text;
     font-weight: $font-weight-bold;

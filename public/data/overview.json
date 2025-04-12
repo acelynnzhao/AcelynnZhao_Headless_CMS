@@ -1,0 +1,40 @@
+{
+    "items": [
+        {
+            "id": "unresolved",
+            "value": 60
+        },
+        {
+            "id": "open",
+            "value": 40
+        },
+        {
+            "id": "overdue",
+            "value": 10
+        },
+        {
+            "id": "onhold",
+            "value": 100
+        },
+        {
+            "id": "resolved",
+            "value": 449
+        },
+        {
+            "id": "received",
+            "value": 426
+        },
+        {
+            "id": "averageFirstRespponseTime",
+            "value": "33m"
+        },
+        {
+            "id": "averageResponseTime",
+            "value": "3h 8m"
+        },
+        {
+            "id": "resolutionWithinSLARate",
+            "value": "94%"
+        }
+    ]
+}

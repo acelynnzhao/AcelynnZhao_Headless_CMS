@@ -1,0 +1,19 @@
+{
+    "items": [
+        {
+            "name": "Finish ticket update",
+            "label": "URGENT",
+            "checked": true
+        },
+        {
+            "name": "Create new ticket example",
+            "label": "NEW",
+            "checked": false
+        },
+        {
+            "name": "Update ticket report",
+            "label": "DEFAULT",
+            "checked": true
+        }
+    ]
+}
