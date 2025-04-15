@@ -6,15 +6,15 @@
         },
         {
             "id": "open",
-            "value": 40
+            "value": 43
         },
         {
             "id": "overdue",
-            "value": 10
+            "value": 16
         },
         {
             "id": "onhold",
-            "value": 100
+            "value": 64
         },
         {
             "id": "resolved",
